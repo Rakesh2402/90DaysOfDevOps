@@ -1,4 +1,4 @@
-current level = working professional
+current level - working professional
 3 clear goals - 
 1: Learn devops end to end
 2: master core devops tools
