@@ -1,13 +1,14 @@
 current level - working professional
-3 clear goals - 
-1: Learn devops end to end
-2: master core devops tools
-3: do more projects so i get better hands on learning
-3 core DevOps skills
-1: Linux, shell scripting , linux trouble shooting
-2: Aws
-3: Core Devops tools
-weekly time budget - currently 2hr but plan is to give 3 hrs
+ 3 clear goals - 
+ 1: Learn devops end to end
+ 2: master core devops tools
+ 3: do more projects so i get better hands on learning
+ 3 core DevOps skills
+ 1: Linux, shell scripting , linux trouble shooting
+ 2: Aws
+ 3: Core Devops tools
+ 
+ weekly time budget - currently 2hr but plan is to give 3 hrs
 
 What is your understanding of DevOps and Cloud Engineering?
 - As a devops engineer i would be helpinng team to build, test & deploy software faster.
