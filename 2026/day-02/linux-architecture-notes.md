@@ -1,6 +1,12 @@
 How processes are created and managed
-- process are created by using fork() system command & exec(): replaces the current process memory with a new program.
-- process different states - R-running, S- Interupted sleep, D- Uniinterupted sleep, z- Zombie, T- Stopped.
+Processes in Linux
+Processes are instances of running programs. For ex. if you do pin www.google.com then ping process is created. You can list processes using ps(ps ax, ps ef) or top commands.
+
+Process states
+running : Active process.
+sleeping : Idle process.
+Stopped : Process suspended by signal SIGSTOP (Ctrl+Z, Ctrl+C). It can be resumed by a SIGCONT signal.
+Zombie : The process has terminated, but its entry in the process table still exists because its parent process has not yet read its exit status.
 
 List 5 commands you would use daily
 -cd, pwd, ls, ls -a, ps, top.
