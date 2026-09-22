@@ -1,4 +1,5 @@
 How processes are created and managed
+
 Processes in Linux
 Processes are instances of running programs. For ex. if you do pin www.google.com then ping process is created. You can list processes using ps(ps ax, ps ef) or top commands.
 
